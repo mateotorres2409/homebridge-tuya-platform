@@ -2,7 +2,7 @@
   "name": "@mateotorres2409/homebridge-tuya-platform",
   "displayName": "Tuya",
   "version": "1.7.0-beta.54",
-  "description": "Fork version of official Tuya Homebridge plugin. Brings a bunch of bug fix and new device support.",
+  "description": "Fork version of 0x5e/homebridge-tuya-platform:develop_1.7.0",
   "license": "MIT",
   "repository": {
     "type": "git",
